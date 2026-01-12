@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Meneric E-Commerce Marketplace",
+  "description": "A comprehensive multi-vendor e-commerce platform inspired by Meesho, featuring vendor registration, an admin control panel, and customer OTP-based authentication simulation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
